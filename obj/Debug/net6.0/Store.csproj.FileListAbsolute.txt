@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Store\obj\Debug\net6.0\Store.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Store\obj\Debug\net6.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Store\obj\Debug\net6.0\Store.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Store\obj\Debug\net6.0\Store.AssemblyInfo.cs
+C:\Users\User\source\repos\Store\obj\Debug\net6.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Store\bin\Debug\net6.0\Store.exe
+C:\Users\User\source\repos\Store\bin\Debug\net6.0\Store.deps.json
+C:\Users\User\source\repos\Store\bin\Debug\net6.0\Store.runtimeconfig.json
+C:\Users\User\source\repos\Store\bin\Debug\net6.0\Store.dll
+C:\Users\User\source\repos\Store\bin\Debug\net6.0\ref\Store.dll
+C:\Users\User\source\repos\Store\bin\Debug\net6.0\Store.pdb
+C:\Users\User\source\repos\Store\obj\Debug\net6.0\Store.dll
+C:\Users\User\source\repos\Store\obj\Debug\net6.0\ref\Store.dll
+C:\Users\User\source\repos\Store\obj\Debug\net6.0\Store.pdb
+C:\Users\User\source\repos\Store\obj\Debug\net6.0\Store.genruntimeconfig.cache
