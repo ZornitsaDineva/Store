@@ -30,6 +30,13 @@ namespace Store
             set { price = value; }
         }
 
+        public Product(string name, string brand, decimal price)
+        {
+            this.name = name;
+            this.brand = brand;
+            this.price = price;
+        }
+
         public virtual int GetDiscountPercent(DateTime purshaseTime)
         {
             return 0;

@@ -21,6 +21,12 @@ namespace Store
         private SIZE size;
         private string color;
 
+        public Clothes(string name, string brand, decimal price, SIZE size, string color) : base(name, brand, price)
+        {
+            this.color = color;
+            this.size = size;
+        }
+
         public SIZE Size { get { return size; } set { size = value; } }
         public string Color { get { return color; } set { color = value; } }
 

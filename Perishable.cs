@@ -10,6 +10,11 @@ namespace Store
     {
         private DateTime expiration;
 
+        protected Perishable(string name, string brand, decimal price, DateTime expiration) : base(name, brand, price)
+        {
+            this.expiration = expiration;
+        }
+
         public DateTime Expiration
         {
             get { return expiration; }

@@ -17,6 +17,14 @@ namespace Store
         public DateOnly ProductionDate { get { return productionDate; } set { productionDate = value; } }
         public decimal Weight { get { return weight; } set { weight = value; } }
 
+        public Appliance(string model, DateOnly productionDate, decimal weight, string name, string brand, decimal price) : base(name, brand, price)
+        {
+            this.model = model;
+            this.productionDate = productionDate;
+            this.weight = weight;
+        }
+
+        
         public override int GetDiscountPercent(DateTime purshaseTime)
         {
 

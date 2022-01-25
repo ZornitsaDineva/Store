@@ -8,5 +8,9 @@ namespace Store
 {
     public class Beverage : Perishable
     {
+        public Beverage(string name, string brand, decimal price, DateTime expiration) : base(name, brand, price,expiration)
+        {
+
+        }
     }
 }
