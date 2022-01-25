@@ -12,5 +12,10 @@ namespace Store
 
         public List<OrderLine> OrderLines { get { return orderLines; } set { orderLines = value; } }    
 
+        public Cart(List<OrderLine> orderLines)
+        {
+            this.orderLines = orderLines;
+        }
+
     }
 }

@@ -14,6 +14,11 @@ namespace Store
         public Product Product { get { return product; } set { product = value; } } 
         public decimal Quantity { get { return quantity; } set { quantity = value; } }  
 
+          public OrderLine(Product product, decimal quantity)
+        {
+            this.quantity = quantity;
+            this.product = product;
+        }
 
     }
 }
